@@ -89,7 +89,7 @@ Desenvolvem habilidades como: trabalho em equipe, responsabilidade, comunicaçã
 
 - 📄 **Documentação completa**: [Google Docs](https://docs.google.com/document/d/19z9MkyNi9nAdYJ6sNdbRMRO-SrRetzGjbQUVz3kD-CU/edit?usp=sharing)  
 - 🎥 **Pitch Deck**: [Canva](https://www.canva.com/design/DAG_jpdziAo/Lbc_R3--qjlPMgM8rXvpuQ/edit?utm_content=DAG_jpdziAo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-- 🖼️ **Protótipo**: [Link em breve – adicione aqui quando disponível]  
+- 🖼️ **Protótipo**: [Figma](https://www.figma.com/design/nLH782MMi1SEIfoHAb2iqZ/S.A.L.A?node-id=0-1&t=ikB2rg9giJ1hGiO8-1)  
 
 ## Referencias
 
